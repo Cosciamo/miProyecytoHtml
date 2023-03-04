@@ -1,0 +1,40 @@
+body{background-color: mediumseagreen;
+    color:darkorange}
+
+h1{font-size: 2em;
+   text-decoration: overline;
+   width: 50%;}
+
+h2{background-color: deeppink;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-decoration: overline;
+   text-align: center;
+   width: 40%;}
+
+p{color: blanchedalmond;
+  font-size: 2em;
+  text-align: center;}
+
+  p em{color: chartreuse;}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{font-family: 'Roboto',sans-serif;
+     text-transform: capitalize;}
+
+     strong{color:cyan}
+
+     ol{font-size: em;
+        text-align: right;}
+
+ul{font-size: em;
+   text-align: right;}
+
+a{text-decoration: none;}
+
+div{height: 200px;
+    background-color: crimson;}
+
+h4{background-color: blue;
+   height: 100px;}
